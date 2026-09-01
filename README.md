@@ -6,5 +6,3 @@
 
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvenKooLab&theme=github)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvenKooLab&theme=github)
-
-📝 公众号「一人产品部」：记录用 AI 造东西的全过程
