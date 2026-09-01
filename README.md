@@ -6,7 +6,7 @@
 - 🌱 慢慢做，不着急
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,git,html,css,md&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,git,html,css,md&theme=dark" /><br/>
   <img src="https://img.shields.io/badge/PyInstaller-152536?style=for-the-badge&logo=python&logoColor=F9D521" />
   <img src="https://img.shields.io/badge/ComfyUI-1A1A2E?style=for-the-badge&logo=nodedotjs&logoColor=9BE89B" />
 </p>
