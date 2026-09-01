@@ -1,8 +1,9 @@
-## Hi, I'm Iven Koo
+## 👋 Hi, I'm Iven Koo
 
-全栈开发 × AI。用 AI 造真东西：桌面软件、Web App、AI 视频产线。
+🛠 全栈开发 × AI —— 用 AI 造真东西：桌面软件、Web App、AI 视频产线。
 
 - 🔨 正在把一个人活成一支产品团队
+- 🌱 慢慢做，不着急
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,git,html,css,md&theme=dark" /><br/>
