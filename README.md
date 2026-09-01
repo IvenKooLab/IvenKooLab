@@ -4,11 +4,6 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvenKooLab&theme=github)
 
-| 正在做 | 说明 |
-|---|---|
-| [ComfyAgent](https://github.com/IvenKooLab/comfy-agent) | 本地 ComfyUI 可视化创作台，纯标准库零依赖 |
-| [violin-schedule](https://github.com/IvenKooLab/violin-schedule) | 给小提琴老师做的课表 PWA |
-
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvenKooLab&theme=github)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvenKooLab&theme=github)
 
