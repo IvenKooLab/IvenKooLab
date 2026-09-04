@@ -1,11 +1,12 @@
-## 👋 Hi, I'm Iven Koo
+## Hi, I'm Iven Koo
 
-🛠 全栈开发 × AI —— 用 AI 造真东西：桌面软件、Web App、AI 视频产线。
+Full-stack developer. Running a local AI video production pipeline (2080Ti + MiniMax H3), with a habit of turning every pitfall I hit into documentation.
 
-- 🧠 [minimax-h3-turing](https://github.com/IvenKooLab/minimax-h3-turing) — 2080Ti 22G 跑 MiniMax H3 实测手册，收录于 [MiniMax-AI/awesome-minimax-h3-integration](https://github.com/MiniMax-AI/awesome-minimax-h3-integration)
-- 🧭 Next: Agent & RAG
-- 🌱 慢慢做，不着急
+## What I'm working on
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,java,docker&theme=dark" />
-</p>
+- Building applications in the Agent & RAG space
+
+## Some things I've built
+
+- [minimax-h3-turing](https://github.com/IvenKooLab/minimax-h3-turing) — Field-tested handbook and compat workflows for running MiniMax H3 on a 2080Ti 22G (Turing sm_75)
+- [violin-schedule](https://github.com/IvenKooLab/violin-schedule) — A cute timetable PWA for violin tutors — or any one-on-one teacher
