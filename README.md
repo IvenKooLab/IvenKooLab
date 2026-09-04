@@ -8,5 +8,5 @@ Full-stack developer. Running a local AI video production pipeline (2080Ti + Min
 
 ## Some things I've built
 
+- [comfy-agent](https://github.com/IvenKooLab/comfy-agent) — Local-first visual studio for ComfyUI: pure-stdlib Python + vanilla JS, zero dependencies, ships as a single 10 MB exe
 - [minimax-h3-turing](https://github.com/IvenKooLab/minimax-h3-turing) — Field-tested handbook and compat workflows for running MiniMax H3 on a 2080Ti 22G (Turing sm_75)
-- [violin-schedule](https://github.com/IvenKooLab/violin-schedule) — A cute timetable PWA for violin tutors — or any one-on-one teacher
