@@ -1,6 +1,6 @@
 ## Hi, I'm Iven Koo
 
-AI Engineer. Running a local AI video production pipeline (2080Ti + MiniMax H3), with a habit of turning every pitfall I hit into documentation.
+Full-stack dev × AI. Running a local AI video production pipeline (2080Ti + MiniMax H3), with a habit of turning every pitfall I hit into documentation.
 
 ## What I'm working on
 
