@@ -4,12 +4,12 @@ Full-stack dev × AI. Running a local AI video production pipeline (2080Ti + Min
 
 ## Featured in
 
-[![minimax-h3-turing](https://img.shields.io/badge/featured_in-awesome--minimax--h3--integration-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/MiniMax-AI/awesome-minimax-h3-integration)
-[![comfy-agent](https://img.shields.io/badge/featured_in-awesome--alternative--uis--for--comfyui-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui#-comfyagent)
+[![minimax-h3-turing](https://img.shields.io/badge/minimax--h3--turing-awesome--minimax--h3--integration-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/MiniMax-AI/awesome-minimax-h3-integration)
+[![comfy-agent](https://img.shields.io/badge/comfy--agent-awesome--alternative--uis--for--comfyui-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui#-comfyagent)
 
 ## What I'm working on
 
-- Agent & RAG: shipped a function-calling tool loop (queue / gallery / logs / launcher) in [comfy-agent](https://github.com/IvenKooLab/comfy-agent); now building [loci](https://github.com/IvenKooLab/loci), a queryable second brain
+- Agent & RAG: shipped a function-calling tool loop (queue / gallery / logs / launcher) in [comfy-agent](https://github.com/IvenKooLab/comfy-agent) and [loci](https://github.com/IvenKooLab/loci) — a queryable second brain (hybrid retrieval · MCP server)
 
 ## Some things I've built
 
