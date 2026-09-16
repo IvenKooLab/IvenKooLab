@@ -17,7 +17,3 @@ Full-stack dev × AI. Running a local AI video production pipeline (2080Ti + Min
 - [minimax-h3-turing](https://github.com/IvenKooLab/minimax-h3-turing) — Field-tested handbook and compat workflows for running MiniMax H3 on a 2080Ti 22G (Turing sm_75)
 - [comfy-agent](https://github.com/IvenKooLab/comfy-agent) — Local-first visual studio for ComfyUI: pure-stdlib Python + vanilla JS, zero dependencies, ships as a single 10 MB exe
 - [desktop-pet](https://github.com/IvenKooLab/desktop-pet) — 3D chibi desktop pet, with a Studio that turns AI character sheets into new pets
-
-## Toolbox
-
-Daily drivers: ZCode (AI coding agent) · Zhipu GLM · ComfyUI + Flux · MiniMax H3 · PyInstaller · mdnice
