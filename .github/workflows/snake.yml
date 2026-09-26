@@ -14,13 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: generate snake pngs
-        uses: Platane/snk/png-only@v3
+      - name: generate snake svgs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: IvenKooLab
           outputs: |
-            dist/snake.png
-            dist/snake-dark.png?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
