@@ -10,7 +10,7 @@ Full-stack dev × AI. Running a local AI video production pipeline (2080Ti + Min
 
 ## What I'm working on
 
-- Agent & RAG: shipped a function-calling tool loop (queue / gallery / logs / launcher) in [comfy-agent](https://github.com/IvenKooLab/comfy-agent) and [loci](https://github.com/IvenKooLab/loci) — a queryable second brain (hybrid retrieval · MCP server)
+- Agent & RAG: shipped [loci](https://github.com/IvenKooLab/loci) (queryable second brain · hybrid retrieval · MCP server), [nacos2-mcp](https://github.com/IvenKooLab/nacos2-mcp) (MCP server for Nacos 2.x), [sub-agent](https://github.com/IvenKooLab/sub-agent) (multi-agent orchestration) and a function-calling tool loop in [comfy-agent](https://github.com/IvenKooLab/comfy-agent)
 
 ## Some things I've built
 
@@ -18,6 +18,8 @@ Full-stack dev × AI. Running a local AI video production pipeline (2080Ti + Min
 - [loci-dsh](https://github.com/IvenKooLab/loci-dsh) — Your loci second brain as a sidebar plugin in the DeepSeek Harness (dsh) web UI
 - [minimax-h3-turing](https://github.com/IvenKooLab/minimax-h3-turing) — Field-tested handbook and compat workflows for running MiniMax H3 on a 2080Ti 22G (Turing sm_75)
 - [comfy-agent](https://github.com/IvenKooLab/comfy-agent) — Local-first visual studio for ComfyUI: pure-stdlib Python + vanilla JS, zero dependencies, ships as a single 10 MB exe
+- [nacos2-mcp](https://github.com/IvenKooLab/nacos2-mcp) — Read-only MCP server for Nacos 2.x — query configs and services from AI agents (fills the 2.x gap in official tooling)
+- [sub-agent](https://github.com/IvenKooLab/sub-agent) — Full-flow AI coding orchestration: a 7-phase AGENTS.md that chains skills, tools and subagents
 - [desktop-pet](https://github.com/IvenKooLab/desktop-pet) — 3D chibi desktop pet, with a Studio that turns AI character sheets into new pets
 
 <picture>
