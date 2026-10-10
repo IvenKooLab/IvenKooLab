@@ -7,7 +7,7 @@ Full-stack dev × AI. Running a local AI video production pipeline (2080Ti + Min
 [![minimax-h3-turing](https://img.shields.io/badge/minimax--h3--turing-awesome--minimax--h3--integration-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/MiniMax-AI/awesome-minimax-h3-integration)
 [![comfy-agent](https://img.shields.io/badge/comfy--agent-awesome--alternative--uis--for--comfyui-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui#-comfyagent)
 [![loci-dsh](https://img.shields.io/badge/loci--dsh-awesome--deepseek--harness-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/0xsline/awesome-deepseek-harness)
-
+[![loci](https://img.shields.io/badge/loci-awesome--mcp--servers-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/punkpeye/awesome-mcp-servers)
 ## What I'm working on
 
 - Agent & RAG: shipped [loci](https://github.com/IvenKooLab/loci) (queryable second brain · hybrid retrieval · MCP server), [nacos2-mcp](https://github.com/IvenKooLab/nacos2-mcp) (MCP server for Nacos 2.x), [sub-agent](https://github.com/IvenKooLab/sub-agent) (multi-agent orchestration) and a function-calling tool loop in [comfy-agent](https://github.com/IvenKooLab/comfy-agent)
