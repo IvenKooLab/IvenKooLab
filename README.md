@@ -54,8 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvenKooLab&layout=compact&hide_border=true" height="165" alt="langs" />
 </a>
 
-*Most repos are mirrored on [Gitee](https://gitee.com/IvenKooLab) — I push there first, a relay syncs GitHub.*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvenKooLab/IvenKooLab/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/IvenKooLab/IvenKooLab/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
