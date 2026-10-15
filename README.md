@@ -4,7 +4,7 @@ Full-stack dev × AI. Running a local AI video production pipeline (2080Ti + Min
 
 ## Featured in
 
-[![loci](https://img.shields.io/badge/loci-awesome--mcp--servers-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/punkpeye/awesome-mcp-servers)
+
 [![minimax-h3-turing](https://img.shields.io/badge/minimax--h3--turing-awesome--minimax--h3--integration-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/MiniMax-AI/awesome-minimax-h3-integration)
 [![comfy-agent](https://img.shields.io/badge/comfy--agent-awesome--alternative--uis--for--comfyui-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui#-comfyagent)
 [![loci-dsh](https://img.shields.io/badge/loci--dsh-awesome--deepseek--harness-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/0xsline/awesome-deepseek-harness)
