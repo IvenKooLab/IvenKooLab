@@ -6,6 +6,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&width=520&lines=local-first+second+brains;agents+with+real+tools+in+their+hands;AI+video+on+a+2080Ti;pitfalls+%E2%86%92+docs" alt="typing" />
 </a>
 
+## 🐾 Meet Iven · 第一个原创 IP 角色
+
+Iven is IvenKooLab’s first original character — a little 3D plush companion with cyan headphones and a clapperboard, made to keep you company through work and little breaks.
+
+<p align="center">
+  <a href="https://github.com/IvenKooLab/desktop-pet">
+    <img src="https://raw.githubusercontent.com/IvenKooLab/desktop-pet/main/docs/previews/reactions.gif" width="280" alt="Iven, our first original character, waving, bouncing and clapping her board" />
+  </a>
+  <br />
+  <em>从第一个角色，到桌面上真实的陪伴。 · Our first character, brought to life on the desktop.</em>
+  <br />
+  <a href="https://github.com/IvenKooLab/desktop-pet">Meet Iven → macOS / Windows</a>
+</p>
+
 ## 🏆 Open source
 
 - **Contributor to [morluto/rea](https://github.com/morluto/rea)** ![stars](https://img.shields.io/github/stars/morluto/rea?style=flat-square) — 5 merged PRs + 2 co-authored commits: registered ZCode / Trae / Qoder CLI as official setup clients (thanked in the [v6.5.0 release notes](https://github.com/morluto/rea/releases/tag/rea-agents-6.5.0)), plus native-trace fixes and test hardening.
