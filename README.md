@@ -35,7 +35,7 @@
 
 **🎨 For fun**
 
-- [desktop-pet](https://github.com/IvenKooLab/desktop-pet) — 3D chibi desktop pet, with a Studio that turns AI character sheets into new pets
+- [desktop-pet](https://github.com/IvenKooLab/desktop-pet) — Iven, an independent 3D plush desktop companion for macOS and Windows: animated roaming, mouse interactions and little breaks, with optional local coding-agent status cards for ZCode and DSH. Active Codex desktop sessions are not currently supported
 - [violin-schedule](https://github.com/IvenKooLab/violin-schedule) — a cute timetable PWA for violin tutors
 
 ## 🛠 Daily drivers
