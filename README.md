@@ -22,7 +22,6 @@ Iven is IvenKooLab’s first original character — a little 3D plush companion 
 
 ## 🏆 Open source
 
-- **Contributor to [morluto/rea](https://github.com/morluto/rea)** ![stars](https://img.shields.io/github/stars/morluto/rea?style=flat-square) — 5 merged PRs + 2 co-authored commits: registered ZCode / Trae / Qoder CLI as official setup clients (thanked in the [v6.5.0 release notes](https://github.com/morluto/rea/releases/tag/rea-agents-6.5.0)), plus native-trace fixes and test hardening.
 - **Featured in**
 
 [![loci](https://img.shields.io/badge/loci-awesome--mcp--servers-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/punkpeye/awesome-mcp-servers)
