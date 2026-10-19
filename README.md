@@ -33,7 +33,7 @@ Iven is IvenKooLab’s first original character — a little 3D plush companion 
 
 **🧠 Second brain / RAG**
 
-- [loci](https://github.com/IvenKooLab/loci) ![stars](https://img.shields.io/github/stars/IvenKooLab/loci?style=flat-square) — a queryable second brain over scattered notes, docs, PDFs and chat exports: hybrid retrieval (vector + BM25 fused with RRF), section-level citations, wikilink graph · `pip install loci-rag`
+- [loci](https://github.com/IvenKooLab/loci) ![stars](https://img.shields.io/github/stars/IvenKooLab/loci?style=flat-square) — shared memory for AI coding tools: hybrid search, cited Q&A, automatic harness memory discovery and a built-in Web console. Local index, MCP + HTTP · [v0.8.1](https://github.com/IvenKooLab/loci/releases/tag/v0.8.1)
 - [loci-dsh](https://github.com/IvenKooLab/loci-dsh) — loci as a sidebar tab in the DeepSeek Harness (dsh) web UI
 
 **🎮 Local AI infrastructure**
