@@ -58,7 +58,7 @@ Iven is IvenKooLab’s first original character — a little 3D plush companion 
 ## 📊 Numbers
 
 <a href="https://github.com/IvenKooLab">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvenKooLab&show_icons=true&hide_border=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IvenKooLab&show_icons=true&hide_border=true&count_private=true" height="165" alt="stats" />
 </a>
 <a href="https://github.com/IvenKooLab">
   <img src="https://streak-stats.demolab.com?user=IvenKooLab&hide_border=true" height="165" alt="streak" />
