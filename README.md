@@ -49,7 +49,7 @@ Iven is IvenKooLab’s first original character — a little 3D plush companion 
 
 **🎨 For fun**
 
-- [desktop-pet](https://github.com/IvenKooLab/desktop-pet) — Iven, an independent 3D plush desktop companion for macOS and Windows: animated roaming, mouse interactions and little breaks, with optional local coding-agent status cards for ZCode and DSH. Active Codex desktop sessions are not currently supported
+- [desktop-pet](https://github.com/IvenKooLab/desktop-pet) ![stars](https://img.shields.io/github/stars/IvenKooLab/desktop-pet?style=flat-square)— Iven, an independent 3D plush desktop companion for macOS and Windows: animated roaming, mouse interactions and little breaks, with optional local coding-agent status cards for ZCode and DSH. Active Codex desktop sessions are not currently supported
 - [violin-schedule](https://github.com/IvenKooLab/violin-schedule) — a cute timetable PWA for violin tutors
 
 ## 🛠 Daily drivers
