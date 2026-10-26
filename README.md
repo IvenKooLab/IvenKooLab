@@ -22,7 +22,7 @@ Iven is IvenKooLab’s first original character — a little 3D plush companion 
 
 ## 🏆 Open source
 
-- **Contributor to [morluto/rea](https://github.com/morluto/rea)** ![stars](https://img.shields.io/github/stars/morluto/rea?style=flat-square) — 6 merged PRs + 2 co-authored commits, thanked in the [v6.5.0 release notes](https://github.com/morluto/rea/releases/tag/rea-agents-6.5.0).
+- **Contributor to [morluto/rea](https://github.com/morluto/rea)** ![stars](https://img.shields.io/github/stars/morluto/rea?style=flat-square) — 7 merged PRs + 2 co-authored commits, thanked in the [v6.5.0](https://github.com/morluto/rea/releases/tag/rea-agents-6.5.0) and [v6.8.0](https://github.com/morluto/rea/releases/tag/rea-agents-6.8.0) release notes (JavaScript analysis: assignment data-flow).
 - **Featured in**
 
 [![loci](https://img.shields.io/badge/loci-awesome--mcp--servers-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/punkpeye/awesome-mcp-servers)
@@ -72,3 +72,4 @@ Iven is IvenKooLab’s first original character — a little 3D plush companion 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvenKooLab/IvenKooLab/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/IvenKooLab/IvenKooLab/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
 </picture>
+
