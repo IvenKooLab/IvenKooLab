@@ -6,18 +6,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&width=520&lines=local-first+second+brains;agents+with+real+tools+in+their+hands;AI+video+on+a+2080Ti;pitfalls+%E2%86%92+docs" alt="typing" />
 </a>
 
-## 🐾 Meet Iven · Our first original character
+## 🐾 Meet Comi · Our first original character
 
-Iven is IvenKooLab’s first original character — a little 3D plush companion with cyan headphones and a clapperboard, made to keep you company through work and little breaks.
+**Comi** (可米) is IvenKooLab's first original character — a little 3D plush companion with cyan headphones and a clapperboard, made to keep you company through work and little breaks.
+
+She started out as the tool icon for [comfy-agent](https://github.com/IvenKooLab/comfy-agent), a ComfyUI desktop workbench — the "Com" in her name comes from there. Later she grew actions and a temper, and moved onto the desktop.
 
 <p align="center">
   <a href="https://github.com/IvenKooLab/desktop-pet">
-    <img src="https://raw.githubusercontent.com/IvenKooLab/desktop-pet/main/docs/previews/profile-reactions.gif" width="200" alt="Iven, our first original character, waving, bouncing and clapping her board" />
+    <img src="https://raw.githubusercontent.com/IvenKooLab/desktop-pet/main/docs/previews/profile-reactions.gif" width="200" alt="Comi, our first original character, waving, bouncing and clapping her board" />
   </a>
   <br />
   <em>Our first character, brought to life on the desktop.</em>
   <br />
-  <a href="https://github.com/IvenKooLab/desktop-pet">Meet Iven → macOS / Windows</a>
+  <a href="https://github.com/IvenKooLab/desktop-pet">Meet Comi → macOS / Windows</a>
 </p>
 
 ## 🏆 Open source
@@ -49,7 +51,7 @@ Iven is IvenKooLab’s first original character — a little 3D plush companion 
 
 **🎨 For fun**
 
-- [desktop-pet](https://github.com/IvenKooLab/desktop-pet) ![stars](https://img.shields.io/github/stars/IvenKooLab/desktop-pet?style=flat-square)— Iven, an independent 3D plush desktop companion for macOS and Windows: animated roaming, mouse interactions and little breaks, with optional local coding-agent status cards for ZCode and DSH. Active Codex desktop sessions are not currently supported
+- [desktop-pet](https://github.com/IvenKooLab/desktop-pet) ![stars](https://img.shields.io/github/stars/IvenKooLab/desktop-pet?style=flat-square)— **Comi** (可米), an independent 3D plush desktop companion for macOS and Windows, grown from the comfy-agent tool icon: animated roaming, fling physics, little breaks, native notifications and a local control API, with optional local coding-agent status cards for ZCode and DSH. Active Codex desktop sessions are not currently supported
 - [violin-schedule](https://github.com/IvenKooLab/violin-schedule) — a cute timetable PWA for violin tutors
 
 ## 🛠 Daily drivers
