@@ -36,7 +36,7 @@ She started out as the tool icon for [comfy-agent](https://github.com/IvenKooLab
 
 **🧠 Second brain / RAG**
 
-- [loci](https://github.com/IvenKooLab/loci) ![stars](https://img.shields.io/github/stars/IvenKooLab/loci?style=flat-square) — shared memory for AI coding tools: hybrid search, cited Q&A, automatic harness memory discovery and a built-in Web console. Local index, MCP + HTTP · [v0.8.1](https://github.com/IvenKooLab/loci/releases/tag/v0.8.1)
+- [loci](https://github.com/IvenKooLab/loci) ![stars](https://img.shields.io/github/stars/IvenKooLab/loci?style=flat-square) — cross-IDE shared memory + knowledge graph + OCR + wiki consolidation over your notes and docs: hybrid search, cited Q&A with claim-by-claim verification, and a built-in Web console. Local index, MCP + HTTP + REST · [v0.9.0](https://github.com/IvenKooLab/loci/releases/tag/v0.9.0)
 - [loci-dsh](https://github.com/IvenKooLab/loci-dsh) — loci as a sidebar tab in the DeepSeek Harness (dsh) web UI
 
 **🎮 Local AI infrastructure**
@@ -74,4 +74,3 @@ She started out as the tool icon for [comfy-agent](https://github.com/IvenKooLab
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvenKooLab/IvenKooLab/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/IvenKooLab/IvenKooLab/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
 </picture>
-
