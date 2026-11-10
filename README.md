@@ -60,15 +60,11 @@ She started out as the tool icon for [comfy-agent](https://github.com/IvenKooLab
 
 ## 📊 Numbers
 
-<a href="https://github.com/IvenKooLab">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvenKooLab&show_icons=true&hide_border=true&count_private=true" height="165" alt="stats" />
-</a>
-<a href="https://github.com/IvenKooLab">
-  <img src="https://streak-stats.demolab.com?user=IvenKooLab&hide_border=true" height="165" alt="streak" />
-</a>
-<a href="https://github.com/IvenKooLab?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvenKooLab&layout=compact&hide_border=true" height="165" alt="langs" />
-</a>
+<p align="center">
+  <a href="https://github.com/IvenKooLab">
+    <img src="https://streak-stats.demolab.com?user=IvenKooLab&hide_border=true" height="165" alt="streak" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvenKooLab/IvenKooLab/output/github-contribution-grid-snake-dark.svg" />
