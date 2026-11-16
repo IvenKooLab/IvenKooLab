@@ -42,6 +42,7 @@ She started out as the tool icon for [comfy-agent](https://github.com/IvenKooLab
 **🎮 Local AI infrastructure**
 
 - [minimax-h3-turing](https://github.com/IvenKooLab/minimax-h3-turing) ![stars](https://img.shields.io/github/stars/IvenKooLab/minimax-h3-turing?style=flat-square) — field handbook for MiniMax H3 video on a 2080Ti 22G: W4A8 quant, BlockCache, PDD
+- [minimax-h3-image-turing](https://github.com/IvenKooLab/minimax-h3-image-turing) ![stars](https://img.shields.io/github/stars/IvenKooLab/minimax-h3-image-turing?style=flat-square) — sister handbook for MiniMax H3 **Image** (33.1B DiT) on the same 2080Ti 22G: W4A8 sizing, agent-runnable SOP, one-command t2i
 - [comfy-agent](https://github.com/IvenKooLab/comfy-agent) ![stars](https://img.shields.io/github/stars/IvenKooLab/comfy-agent?style=flat-square) — local-first visual studio for ComfyUI: pure-stdlib Python + vanilla JS, ships as a single 10 MB exe
 
 **🤖 Agent tooling**
