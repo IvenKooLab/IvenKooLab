@@ -24,7 +24,7 @@ She started out as the tool icon for [comfy-agent](https://github.com/IvenKooLab
 
 ## 🏆 Open source
 
-- **Contributor to [morluto/rea](https://github.com/morluto/rea)** ![stars](https://img.shields.io/github/stars/morluto/rea?style=flat-square) — 7 merged PRs + 2 co-authored commits, thanked in the [v6.5.0](https://github.com/morluto/rea/releases/tag/rea-agents-6.5.0) and [v6.8.0](https://github.com/morluto/rea/releases/tag/rea-agents-6.8.0) release notes (JavaScript analysis: assignment data-flow).
+- **Contributor to [morluto/rea](https://github.com/morluto/rea)** ![stars](https://img.shields.io/github/stars/morluto/rea?style=flat-square) — 10 merged PRs + 2 co-authored commits, thanked in the [v6.5.0](https://github.com/morluto/rea/releases/tag/rea-agents-6.5.0), [v6.8.0](https://github.com/morluto/rea/releases/tag/rea-agents-6.8.0) and [v6.10.1](https://github.com/morluto/rea/releases/tag/rea-agents-6.10.1) release notes (JavaScript data-flow analysis, Darwin process-capture fix).
 - **Featured in**
 
 [![loci](https://img.shields.io/badge/loci-awesome--mcp--servers-8A2BE2?logo=githubsponsors&logoColor=white)](https://github.com/punkpeye/awesome-mcp-servers)
@@ -36,7 +36,7 @@ She started out as the tool icon for [comfy-agent](https://github.com/IvenKooLab
 
 **🧠 Second brain / RAG**
 
-- [loci](https://github.com/IvenKooLab/loci) ![stars](https://img.shields.io/github/stars/IvenKooLab/loci?style=flat-square) — cross-IDE shared memory + knowledge graph + OCR + wiki consolidation over your notes and docs: hybrid search, cited Q&A with claim-by-claim verification, and a built-in Web console. Local index, MCP + HTTP + REST · [v0.9.0](https://github.com/IvenKooLab/loci/releases/tag/v0.9.0)
+- [loci](https://github.com/IvenKooLab/loci) ![stars](https://img.shields.io/github/stars/IvenKooLab/loci?style=flat-square) — shared memory for AI coding tools: hybrid search, cited Q&A with claim-by-claim verification, harness memory discovery, knowledge graph + OCR loaders, and a built-in Web console. Local index, MCP + HTTP · [v0.10.0](https://github.com/IvenKooLab/loci/releases/tag/v0.10.0)
 - [loci-dsh](https://github.com/IvenKooLab/loci-dsh) — loci as a sidebar tab in the DeepSeek Harness (dsh) web UI
 
 **🎮 Local AI infrastructure**
