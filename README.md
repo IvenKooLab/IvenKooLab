@@ -42,18 +42,13 @@ She started out as the tool icon for [comfy-agent](https://github.com/IvenKooLab
 **🎮 Local AI infrastructure**
 
 - [minimax-h3-turing](https://github.com/IvenKooLab/minimax-h3-turing) ![stars](https://img.shields.io/github/stars/IvenKooLab/minimax-h3-turing?style=flat-square) — field handbook for MiniMax H3 video on a 2080Ti 22G: W4A8 quant, BlockCache, PDD
-- [minimax-h3-image-turing](https://github.com/IvenKooLab/minimax-h3-image-turing) ![stars](https://img.shields.io/github/stars/IvenKooLab/minimax-h3-image-turing?style=flat-square) — sister handbook for MiniMax H3 **Image** (33.1B DiT) on the same 2080Ti 22G: W4A8 sizing, agent-runnable SOP, one-command t2i
+- [minimax-h3-image-turing](https://github.com/IvenKooLab/minimax-h3-image-turing) — sister handbook for MiniMax H3 **Image** (33.1B DiT) on the same 2080Ti 22G: W4A8 sizing, agent-runnable SOP, one-command t2i
 - [comfy-agent](https://github.com/IvenKooLab/comfy-agent) ![stars](https://img.shields.io/github/stars/IvenKooLab/comfy-agent?style=flat-square) — local-first visual studio for ComfyUI: pure-stdlib Python + vanilla JS, ships as a single 10 MB exe
 
-**🤖 Agent tooling**
-
-- [sub-agent](https://github.com/IvenKooLab/sub-agent) — a 7-phase AGENTS.md that chains skills, tools and subagents through the whole coding flow
-- [nacos2-mcp](https://github.com/IvenKooLab/nacos2-mcp) — read-only MCP server for Nacos 2.x, filling the gap in official tooling
 
 **🎨 For fun**
 
 - [desktop-pet](https://github.com/IvenKooLab/desktop-pet) ![stars](https://img.shields.io/github/stars/IvenKooLab/desktop-pet?style=flat-square)— **Comi** (可米), an independent 3D plush desktop companion for macOS and Windows, grown from the comfy-agent tool icon: animated roaming, fling physics, little breaks, native notifications and a local control API, with optional local coding-agent status cards for ZCode and DSH. Active Codex desktop sessions are not currently supported
-- [violin-schedule](https://github.com/IvenKooLab/violin-schedule) — a cute timetable PWA for violin tutors
 
 ## 🛠 Daily drivers
 
